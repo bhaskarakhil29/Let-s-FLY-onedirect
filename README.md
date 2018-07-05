@@ -46,5 +46,5 @@ Book button
 7)Open Google Chrome and search as localhost/Let-s-FLY-onedirect/index.php.
 
 
-Note: As the website is not responsive, Please use 15.6 inch screen for ideal UI. Else, Zoom in or Zoom out accordingly.
+Note: As the website is not responsive, Please use 15.6 inch screen for ideal UI. Else, Zoom in or Zoom out accordingly.All the flights are non stop and scheduled on 06/07/2018.
 
