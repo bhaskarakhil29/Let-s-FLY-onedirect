@@ -4,13 +4,13 @@ This is a website which shows the available flights major cities like Hyderabad,
 Verbal Description :
 Flight Search
 Flight search system for a one-way ticket. 
-Search Panel
+Search Panel,
 Search panel having following elements
 From (Airport)
 
-To (Airport)
-Depart Date
-Number of Passengers
+To (Airport),
+Depart Date,
+Number of Passengers,
 Search Button
 
 ***Listing page***
@@ -28,6 +28,7 @@ Total duration
 Price
 
 Book button
+
 ***Instructions to execute the code***
 1)Install Xampp software and open the Xampp control panel. Now, Enable the Apache as well as Mysql buttons.
 2)download all the files and go to the xampp folder->htdocs. Unzip and paste all the downloaded folder in htdocs.
